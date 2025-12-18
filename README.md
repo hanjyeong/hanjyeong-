@@ -55,7 +55,7 @@
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjyeong)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={wg1004s})](https://solved.ac/{wg1004s})
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wg1004s)](https://solved.ac/wg1004s)
 
 
 </div>
