@@ -38,8 +38,8 @@
   
   
   ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <!--AmazonAWS-->
+  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 
   <br/>
   <br/>
