@@ -15,12 +15,12 @@
   
   ## 🧱 Tech Stack
   ### Back-end
-  <!--JAVA-->
+  <!--java-->
   <img src="https://img.shields.io/badge/JAVA-F4C51C?style=flat-square&logo=JAVA&logoColor=white"/>
-  <!--SPRINGBOOT-->
-  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SPRINGBOOT&logoColor=white"/>
-  <!--SPRING DATA JPA-->
-  <img src="https://img.shields.io/badge/SPRINGDATAJPA-00AB44?style=flat-square&logo=SPRINGDATAJPA&logoColor=white"/>
+  <!--springboot-->
+  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SPRING BOOT&logoColor=white"/>
+  <!--spring data jpa-->
+  <img src="https://img.shields.io/badge/SPRINGDATAJPA-00AB44?style=flat-square&logo=SPRING DATA JPA&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
