@@ -56,12 +56,13 @@
   </a>
 </div>
 
- ## 🚀 Projects
+## 🚀 Projects
 
 | Period | Project | Explanation | Role | Tech Stack |
 |---|---|---|---|---|
-| 2024.05~2025.03 |🌕동구라미 | 동아리 지원, 홍보 및 동아리원 관리 서비스 |백엔드 팀원| Java, Spring Boot, MySQL, Redis,<br>AWS EC2/RDS/S3|
-| 2025.09~2025.11 |🥕사장님 당근해요|B2B 물건 거래 서비스 |백엔드 팀원| Java, Spring Boot, MySQL,<br>AWS EC2|
+| 2024.05~2025.03 | [🌕동구라미](https://github.com/hanjyeong/USW-Circle-Link-Server) | 동아리 지원, 홍보 및 동아리원 관리 서비스 | 백엔드 \| 회원가입·로그인, 이메일 인증(토큰/만료 처리), Redis 캐싱으로 응답시간 개선 | Java, Spring Boot, MySQL, Redis,<br>AWS EC2/RDS/S3 |
+| 2025.09~2025.11 | [🥕사장님 당근해요](https://github.com/hanjyeong/TrustTrade) | B2B 물건 거래 서비스 | 백엔드 \| 물품 조회/검색·필터, 지도 API(좌표/주소 변환) 기반 위치 기능 | Java, Spring Boot, MySQL,<br>AWS EC2 |
+
 
 
 
