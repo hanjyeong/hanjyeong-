@@ -1,7 +1,8 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=hanjyeong'%20GitHub&fontColor=FFFFFF)
+ ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=hanjyeong%27s%20GitHub&fontColor=000000)
+
   
 </div>
 
