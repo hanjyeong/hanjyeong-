@@ -50,7 +50,7 @@
   <br/>
   <br/>
   
-<h2>🧐Github Stats</h2>
+<h2>🧐Github Status</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:stretch;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
