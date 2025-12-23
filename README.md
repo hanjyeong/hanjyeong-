@@ -57,10 +57,36 @@
 
 ## 🚀 Projects
 
-| Period | Project | Explanation | Role | Responsibilities | Tech Stack |
-|---|---|---|---|---|---|
-| 2024.05~2025.03 | [🌕동구라미](https://github.com/hanjyeong/USW-Circle-Link-Server) | 동아리 지원·홍보 및 동아리원 관리 서비스 | 백엔드 | 회원가입·로그인, 이메일 인증(토큰/만료 처리), Redis 캐싱으로 응답시간 개선 | Java, Spring Boot, MySQL, Redis,<br>AWS EC2/RDS/S3 |
-| 2025.09~2025.11 | [🥕사장님 당근해요](https://github.com/hanjyeong/TrustTrade) | B2B 물건 거래 서비스 | 백엔드 | 물품 조회/검색·필터, 지도 API(좌표/주소 변환) 기반 위치 기능 | Java, Spring Boot, MySQL,<br>AWS EC2 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="12%">Period</th>
+      <th width="18%">Project</th>
+      <th width="20%">Explanation</th>
+      <th width="8%">Role</th>
+      <th width="28%">Responsibilities</th>
+      <th width="14%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2024.05~2025.03</td>
+      <td><a href="https://github.com/hanjyeong/USW-Circle-Link-Server">🌕동구라미</a></td>
+      <td>동아리 지원·홍보 및 동아리원 관리 서비스</td>
+      <td>백엔드</td>
+      <td>회원가입·로그인, 이메일 인증(토큰/만료 처리), Redis 캐싱으로 응답시간 개선</td>
+      <td>Java, Spring Boot, MySQL, Redis,<br/>AWS EC2/RDS/S3</td>
+    </tr>
+    <tr>
+      <td>2025.09~2025.11</td>
+      <td><a href="https://github.com/hanjyeong/TrustTrade">🥕사장님 당근해요</a></td>
+      <td>B2B 물건 거래 서비스</td>
+      <td>백엔드</td>
+      <td>물품 조회/검색·필터, 지도 API(좌표/주소 변환) 기반 위치 기능</td>
+      <td>Java, Spring Boot, MySQL,<br/>AWS EC2</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
