@@ -18,26 +18,30 @@
 [![VELOG](https://img.shields.io/badge/VELOG-20C997?style=flat&logo=velog&logoColor=white)](https://YOUR_BLOG_URL)
 [![wg1004s@naver.com](https://img.shields.io/badge/wg1004s%40naver.com-20C997?style=flat&logo=naver&logoColor=white)](mailto:wg1004s@naver.com)
 
+## 🧱 Tech Stack
+
+### Back-end
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 </div>
 
-<br/><br/>
-
-## 🧱 Tech Stack
-### Back-end
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-
 ### Infra
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+</div>
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+</div>
+
 
 <br/><br/>
 
