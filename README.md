@@ -97,5 +97,19 @@
       </td>
       <td>Java, Spring Boot, MySQL,<br/>AWS EC2</td>
     </tr>
+    <tr>
+      <td style="text-align:center; white-space:nowrap;">2025.12~2026.01</td>
+      <td style="text-align:center; white-space:nowrap;">
+        <a href="https://github.com/kimhoeyun/SUDA" style="color:#6F42C1; text-decoration:none;">
+          🍱SUDA
+        </a>
+      </td>
+      <td>카카오톡 챗봇 학식 알림 서비스</td>
+      <td style="text-align:center; white-space:nowrap;">백엔드</td>
+      <td>
+        크롤링 및 오늘의 학식 정보 API 
+      </td>
+      <td>Java, Spring Boot, PostgreSql,<br/>AWS EC2</td>
+    </tr>
   </tbody>
 </table>
