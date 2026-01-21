@@ -100,7 +100,7 @@
     <tr>
       <td style="text-align:center; white-space:nowrap;">2025.12~2026.01</td>
       <td style="text-align:center; white-space:nowrap;">
-        <a href="https://github.com/kimhoeyun/SUDA" style="color:#6F42C1; text-decoration:none;">
+        <a href="https://github.com/hanjyeong/SUDA" style="color:#6F42C1; text-decoration:none;">
           🍱SUDA
         </a>
       </td>
